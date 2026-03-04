@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Take your hand",
+  "base_artist": "アニスフィア・ウィン・パレッティア（CV：千本木彩花）",
+  "createdAt": "2026-03-04T13:29:25.788377Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Life to Take Your Hand",
+      "artist": "Skywave",
+      "has_synced": false,
+      "path": "select/01_Life_to_Take_Your_Hand_Skywave.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Your Hand",
+      "artist": "Usher",
+      "has_synced": false,
+      "path": "select/02_Take_Your_Hand_Usher.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Your Hand Out of My Pocket - Live",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/03_Take_Your_Hand_Out_of_My_Pocket_-_Live_Van_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Your Hand Out of My Pocket",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/04_Take_Your_Hand_Out_of_My_Pocket_Van_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Your Hand Out of My Pocket",
+      "artist": "Sonny Boy Williamson",
+      "has_synced": false,
+      "path": "select/05_Take_Your_Hand_Out_of_My_Pocket_Sonny_Boy_Williamson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take your hand",
+      "artist": "アニスフィア・ウィン・パレッティア(CV:千本木彩花) feat. ユフィリア・マゼンタ(CV:石見舞菜香)",
+      "has_synced": true,
+      "path": "select/06_Take_your_hand_アニスフィア・ウィン・パレッティア(CV_千本木彩花)_feat._ユフィリア・マゼンタ(CV_石見舞菜香).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take your hand",
+      "artist": "アニスフィア・ウィン・パレッティア(CV.千本木彩花)、ユフィリア・マゼンタ(CV.石見舞菜香)",
+      "has_synced": true,
+      "path": "select/07_Take_your_hand_アニスフィア・ウィン・パレッティア(CV.千本木彩花)、ユフィリア・マゼンタ(CV.石見舞菜香).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take Your Hand",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/08_Take_Your_Hand_Usher.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take Your Hand",
+      "artist": "USHER",
+      "has_synced": true,
+      "path": "select/09_Take_Your_Hand_USHER.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Your Hand (Confessions Special Edition Version)",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/10_Take_Your_Hand_(Confessions_Special_Edition_Version)_Usher.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Your Hand Out of My Pocket (Live at the Santa Monica Civic, Santa Monica, CA - May 1973)",
+      "artist": "Van Morrison",
+      "has_synced": false,
+      "path": "select/11_Take_Your_Hand_Out_of_My_Pocket_(Live_at_the_Santa_Monica_Civic,_Santa_Monica,_C_Van_Morrison.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take Your Hand Out of My Pocket (Live)",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/12_Take_Your_Hand_Out_of_My_Pocket_(Live)_Van_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take Your Hand (Confessions Special Edition Version)",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/13_Take_Your_Hand_(Confessions_Special_Edition_Version)_Usher.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take your hand",
+      "artist": "アニスフィア・ウィン・パレッティア(CV:千本木彩花)",
+      "has_synced": true,
+      "path": "select/14_Take_your_hand_アニスフィア・ウィン・パレッティア(CV_千本木彩花).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take your hand",
+      "artist": "アニスフィア・ウィン・パレッティア(CV:千本木彩花)、ユフィリア・マゼンタ(CV:石見舞菜香)",
+      "has_synced": false,
+      "path": "select/pl_01_Take_your_hand_アニスフィア・ウィン・パレッティア(CV_千本木彩花)、ユフィリア・マゼンタ(CV_石見舞菜香).txt"
+    }
+  ]
+}
